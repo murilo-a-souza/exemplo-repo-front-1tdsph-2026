@@ -13,7 +13,7 @@ header {
     background-color: #1a1a1c;
     padding: 20px;
     color: #fff;
-    width: 100%;
+    width: 96%;
     height: 120px;
     margin: 0 auto;
 }
@@ -52,7 +52,7 @@ header nav ul li a {
 }
 
 main {
-    padding-left: 30px;
+    padding: 1px 30px;
 }
 
 section {
@@ -75,7 +75,7 @@ footer {
     padding-bottom: 10px;
     text-align: center;
     color: #fff;
-    width: 100%;
+    width: 99%;
     height: auto;
     margin: 0 auto;
 }
